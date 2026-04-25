@@ -1,0 +1,57 @@
+[
+  {
+    "exam": "JEE_MAIN",
+    "stream": "MPC",
+    "subject": "Physics",
+    "year": 2022,
+    "question": "A particle moves with constant acceleration. Which relation is correct?",
+    "options": ["v = u + at", "v = u - at", "v = ut + a", "v = u + a"],
+    "answer": "v = u + at",
+    "solution": "For constant acceleration, the first equation of motion is v = u + at.",
+    "tags": ["kinematics", "equations of motion"]
+  },
+  {
+    "exam": "JEE_MAIN",
+    "stream": "MPC",
+    "subject": "Chemistry",
+    "year": 2021,
+    "question": "Which gas is used in the Haber process for ammonia synthesis?",
+    "options": ["O2", "N2", "CO2", "Cl2"],
+    "answer": "N2",
+    "solution": "Ammonia is synthesized from nitrogen and hydrogen in the Haber process.",
+    "tags": ["industrial chemistry", "haber process"]
+  },
+  {
+    "exam": "NEET",
+    "stream": "BIPC",
+    "subject": "Biology",
+    "year": 2020,
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+    "answer": "Mitochondria",
+    "solution": "Mitochondria generate ATP through cellular respiration.",
+    "tags": ["cell biology"]
+  },
+  {
+    "exam": "EAMCET_MPC",
+    "stream": "MPC",
+    "subject": "Mathematics",
+    "year": 2023,
+    "question": "If the roots of x^2 - 5x + 6 = 0 are a and b, then a + b equals?",
+    "options": ["-5", "5", "6", "-6"],
+    "answer": "5",
+    "solution": "For ax^2 + bx + c = 0, sum of roots is -b/a. Here it is 5.",
+    "tags": ["quadratic equations"]
+  },
+  {
+    "exam": "EAMCET_BIPC",
+    "stream": "BIPC",
+    "subject": "Physics",
+    "year": 2022,
+    "question": "Which quantity is a scalar?",
+    "options": ["Velocity", "Acceleration", "Displacement", "Speed"],
+    "answer": "Speed",
+    "solution": "Speed has magnitude only, no direction, so it is scalar.",
+    "tags": ["kinematics"]
+  }
+]
